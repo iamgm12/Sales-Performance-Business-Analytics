@@ -8,6 +8,19 @@ The goal is to transform raw sales data into meaningful business insights that s
 
 **Dataset notice:** This project uses synthetic, fictional retail data created for portfolio and analytics practice. It does not represent the actual performance of a real business.
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### Sales & Profitability
+![Sales & Profitability](screenshots/sales-profitability.png)
+
+### Returns Analysis
+![Returns Analysis](screenshots/returns-analysis.png)
+
+
 ## Tools & Technologies
 
 - **SQL Server:** Data storage, querying, data quality checks, and business analysis
@@ -60,7 +73,7 @@ The goal is to transform raw sales data into meaningful business insights that s
 
 ## SQL Analysis
 
-The `sql/` folder contains 15 SQL scripts covering:
+The `SQL/` folder contains 15 SQL scripts covering:
 
 1. Database inspection
 2. Data quality checks
@@ -82,8 +95,8 @@ The `sql/` folder contains 15 SQL scripts covering:
 
 - `Sales_Performance_Business_Analytics.pbix` — Power BI dashboard
 - `Sales_Performance_Business_Analytics.pdf` — Exported dashboard report
-- `excel/NexaMart_Sales_Analysis.xlsx` — Excel analysis workbook
-- `sql/` — SQL scripts
+- `EXCEL/NexaMart_Sales_Analysis.xlsx` — Excel analysis workbook
+- `SQL/` — SQL scripts
 - `screenshots/` — Dashboard screenshots
 
 ## Dashboard Pages
@@ -111,3 +124,8 @@ The report includes KPI cards, category and channel comparisons, regional perfor
 ## Disclaimer
 
 This is an independent portfolio project built for learning and demonstration purposes. All retail data is synthetic and fictional.
+
+
+## Contact
+
+Ghulam Murtaza | [LinkedIn](https://www.linkedin.com/in/ghulam-murtaza-a1319b435)
