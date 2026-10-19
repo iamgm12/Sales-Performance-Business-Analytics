@@ -71,6 +71,25 @@ The goal is to transform raw sales data into meaningful business insights that s
 
 *Return rates compare units sold during the order period with approved returned units during the return period. They are not order-level cohort return rates.*
 
+## Data Model
+
+The project uses a relational retail analytics database built in SQL Server.
+
+### Dimension Tables
+- `DimDate` — date attributes for time-based analysis
+- `DimProduct` — product names and categories
+- `DimCustomer` — customer information
+- `DimStore` — store information
+- `DimRegion` — regional grouping
+- `DimEmployee` — employee information
+- `DimPromotion` — promotion details
+
+### Fact Tables
+- `FactSales` — sales transactions, quantities, discounts, costs, net sales, and profit
+- `FactReturns` — returned quantities, return statuses, and refund amounts
+
+The data model supports analysis across products, customers, stores, regions, employees, promotions, and time periods.
+
 ## SQL Analysis
 
 The `SQL/` folder contains 15 SQL scripts covering:
