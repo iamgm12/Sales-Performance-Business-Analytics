@@ -4,9 +4,9 @@
 
 This project analyzes retail sales, profitability, customer behavior, store performance, promotions, and product returns using SQL Server, Microsoft Excel, and Power BI.
 
-The goal is to transform raw sales data into meaningful business insights that support performance monitoring and better decision-making.
+Using a synthetic retail dataset with over 574,000 sales records, the project transforms raw data into meaningful business insights that support performance monitoring and better decision-making.
 
-**Dataset notice:** This project uses synthetic, fictional retail data created for portfolio and analytics practice. It does not represent the actual performance of a real business.
+Dataset notice: This project uses synthetic, fictional retail data created for portfolio and analytics practice. It does not represent the actual performance of a real business.
 
 
 ## Dashboard Preview
